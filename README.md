@@ -6,9 +6,7 @@ Abstract: We construct a novel database containing hundreds of thousands geotagg
 
 # TWITTER INDEX OF SOCIAL DISTANCING IN THE US (15/03/2020)
 
-<p align="center">
-  <img src="doc/US_twitter_index.tif" />
-</p>
+![alt text](https://https://github.com/simonporcher/Twitter_Index_Social_Distancing_US/blob/main/US_twitter_index.tif)
 
 # GENERAL INFORMATION
 #### 1. Title of Dataset:
