@@ -4,7 +4,7 @@ The dataset is the replication data for Porcher, S. and T. Renault, “Social di
 
 Abstract: We construct a novel database containing hundreds of thousands geotagged messages related to the COVID-19 pandemic sent on Twitter. We create a daily index of social distancing at the state level to capture social distancing beliefs by analyzing the number of tweets containing keywords such as #stay home, #stay safe, #wear mask, #wash hands and #social distancing. We find that an increase in the Twitter index of social distancing on day t-1 is associated with a decrease in mobility on day t. We also find that state orders, an increase in the number of COVID-19 cases, precipitation and temperature contribute to reducing human mobility. Republican states are also less likely to enforce social distancing. Beliefs shared on social networks could both reveal the behavior of individuals and influence the behavior of others. Our findings suggest that policy makers can use geotagged Twitter data in conjunction with mobility data to better understand individual voluntary social distancing actions.
 
-# TWITTER INDEX OF SOCIAL DISTANCING IN THE US (15/03/2020)
+# TWITTER INDEX OF SOCIAL DISTANCING IN THE US (March 15, 2020)
 
 <img src= "https://github.com/simonporcher/Twitter_Index_Social_Distancing_US/blob/main/US_twitter_index_small.jpg">
 
