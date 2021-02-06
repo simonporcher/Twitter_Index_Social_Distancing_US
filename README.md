@@ -6,7 +6,7 @@ Abstract: We construct a novel database containing hundreds of thousands geotagg
 
 # TWITTER INDEX OF SOCIAL DISTANCING IN THE US (15/03/2020)
 
-<img src= "https://drive.google.com/file/d/1oiOz9F5qBkVlsZZHVAxlYYOpScnpwUzU/view?usp=sharing" width="300">
+<img src= "https://drive.google.com/file/d/1oiOz9F5qBkVlsZZHVAxlYYOpScnpwUzU/view?usp=sharing" width="200">
 
 
 High resolution here:
